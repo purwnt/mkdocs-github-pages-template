@@ -1,10 +1,16 @@
+---
+layout: blank-page
+title: About
+permalink: /about/
+---
+
 <div align="center">
   <img src="https://belajarpython.com/img/logo-belajarpython-for-github.png"><br><br>
 </div>
 
 ---
 
-# [Belajarpython](https://www.belajarpython.com/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/belajarpythoncom/belajarpython.com/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://belajarpython.com/contribute)
+# [Belajarpython](https://belajarpython.com/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/belajarpythoncom/belajarpython.com/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://belajarpython.com/docs/how-to-contribute.html) [![Open Source Helpers](https://www.codetriage.com/belajarpythoncom/belajarpython.com/badges/users.svg)](https://www.codetriage.com/belajarpythoncom/belajarpython.com)
 
 Belajarpython adalah situs kolaboratif tutorial pemrograman Python bahasa Indonesia
 
@@ -18,11 +24,11 @@ Belajarpython adalah situs terbuka (open source) yang dikembangkan oleh develope
 
 ### [Code of Conduct](https://belajarpython.com/docs/codeofconduct)
 
-Belajarpython telah mengadopsi Kode Etik yang kami harapkan akan diikuti oleh peserta proyek terbuka ini. Mohon baca [full text](https://github.com/belajarpythoncom/belajarpython.com/blob/master/CODE_OF_CONDUCT.md) sehingga anda dapat mengerti aksi apa yang yang bisa dan tidak bisa ditoleransi.
+Belajarpython telah mengadopsi Kode Etik yang kami harapkan akan diikuti oleh peserta proyek terbuka ini. Mohon baca [full text](https://github.com/belajarpythoncom/belajarpython.com/blob/master/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 ### [Panduan Kontribusi](https://belajarpython.com/contribute)
 
-Baca [panduan kontribusi](https://belajarpython.com/contribute) dari kami untuk mempelajari tentang proses pengembangan konten disini.
+Baca [panduan kontribusi](https://belajarpython.org/contribute) dari kami untuk mempelajari tentang proses pengembangan konten disini.
 
 ### Good First Issues
 
@@ -30,4 +36,4 @@ Untuk membantu Anda membuat kaki Anda basah dan membuat Anda terbiasa dengan pro
 
 ### License
 
-Belajarpython is [MIT licensed](./LICENSE).
+Belajarpython is [MIT licensed](https://github.com/belajarpythoncom/belajarpython.com/blob/master/LICENSE).
